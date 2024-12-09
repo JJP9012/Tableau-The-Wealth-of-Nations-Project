@@ -31,10 +31,12 @@ I created **5 visuals**, ensuring the dashboard met **colour-blind accessibility
 
 
 ### 2. **Data Visualisation (Tableau)** 🎨
-- Created 4 visualisations focusing on the **top 20 countries** 🌍📊
+- Created 5 visualisations focusing on the **top 20 countries** 🌍📊
 - Designed the dashboard to be **colour-blind friendly** and fully accessible 🎨🟢
 - Built visual insights with **dynamic charts** and **graphs** 📊
 - Made the dashboard user-friendly with filters and tooltips for deeper data exploration 🔎
+
+![Screenshot 2024-12-09 161840](https://github.com/user-attachments/assets/d4c15756-9b39-462f-ba54-8fa2ba62f1e2)
 
 ---
 
@@ -42,7 +44,7 @@ I created **5 visuals**, ensuring the dashboard met **colour-blind accessibility
 
 ### Excel:
 - 🧹 Data cleaning & formatting
-- 📊 Pivot Tables & advanced Excel formulas
+- 📊 Charts and Excel formulas
 - 🏗 Data preparation for visualisation
 
 ### Tableau:
@@ -56,4 +58,5 @@ I created **5 visuals**, ensuring the dashboard met **colour-blind accessibility
 
 Through this project, I demonstrated my ability to transform raw data into valuable insights using **Excel** and **Tableau Public**. With an emphasis on accessibility, this project highlights my expertise in creating dashboards that are not only insightful but also user-friendly for all audiences, including those with colour blindness.
 
-### 🌟 Ready to explore the data? Check out my [Tableau Dashboard](https://public.tableau.com/views/WealthofNationsDashboard_16825854613080/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+### 🌟 Ready to explore the data? Check out my [Tableau Dashboard](https://public.tableau.com/views/WealthofNationsDashboard_16825854613080/Dashboard1?](https://public.tableau.com/app/profile/joe.phillips6967/viz/TheWealthofNationsData_17335051419860/Dashboard1):language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
